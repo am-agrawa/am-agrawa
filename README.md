@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Agrawal</h1>
-<h3 align="center">Software Quality Engineer at IBM Storage, Bangalore working on OpenShift Data Foundation.</h3>
+<h3 align="center">Software Quality Engineer at IBM Storage, working on OpenShift Data Foundation Quality Assurance.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-cekmh.nitrocdn.com/SlrtebQxNZbUBkfXeRIcTgUmxZsOSldb/assets/images/optimized/rev-2250281/codoid.com/wp-content/uploads/2023/02/Software-Development-Meme.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-agrawa&label=Profile%20views&color=0e75b6&style=flat" alt="am-agrawa" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [OpenShift Data Foundation](https://github.com/red-hat-storage/ocs-ci)
 
-- 💬 Ask me about **K8s, Ceph, Python, Pytest, Software testing- Functional, Github, Linux, Selenium, CI/CD (Jenkins)**
+- 💬 Ask me about **Software testing- Functional, K8s, Ceph, Python, Pytest, Github, Linux, Selenium, CI/CD (Jenkins)**
 
 - 📫 How to reach me **aman_31dec@yahoo.in**
 
