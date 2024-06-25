@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Agrawal</h1>
 <h3 align="center">Software Quality Engineer at IBM Storage, working on OpenShift Data Foundation Quality Assurance.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn-cekmh.nitrocdn.com/SlrtebQxNZbUBkfXeRIcTgUmxZsOSldb/assets/images/optimized/rev-2250281/codoid.com/wp-content/uploads/2023/02/Software-Development-Meme.jpg"
+<img align="right" alt="Coding" width="400" src="https://mailtrap.io/wp-content/uploads/2020/06/testing_meme3.png"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-agrawa&label=Profile%20views&color=0e75b6&style=flat" alt="am-agrawa" /> </p>
 
